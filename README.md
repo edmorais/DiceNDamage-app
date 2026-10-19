@@ -1,4 +1,4 @@
-# Dice & Damage - Android
+# Dice & Damage - desktop & Android
 
 **A damage calculator and dice roller for Dungeons & Dragons 5e and similar RPGs.**
 
